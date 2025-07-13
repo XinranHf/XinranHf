@@ -8,7 +8,8 @@
 
 ###
 
-<p align="left">I am a final-year engineering student at École Centrale de Lille, passionate about data and its ability to unlock meaningful insights and drive business transformation. I strongly believe in the power of data to inform decisions, optimize processes and create measurable impact. Eager to apply my analytical skills and curiosity, I aspire to work in data consulting, where I can help organizations harness data strategically and deliver high-impact solutions.</p>
+<p align="left"> As a final-year engineering student at École Centrale de Lille, I am passionate about leveraging data to uncover meaningful insights and drive business transformation. I believe deeply in the power of data to guide decisions, optimize processes and create measurable impact. With a strong analytical mindset and a curiosity for solving complex problems, I aspire to build a career in data & analytics consulting, helping organizations unlock the full value of their data to achieve high-impact and actionable outcomes.
+</p>
 
 ###
 
